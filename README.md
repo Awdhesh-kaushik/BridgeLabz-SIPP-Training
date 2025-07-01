@@ -26,7 +26,7 @@ Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops
 
 * 📅 13/06/25 (Fri) – Day 5 – Java Methods<br>
 Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases<br>
-🔗  [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaMethods)<br>
+🔗  [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/Core-Java/Java%20Mehods)<br>
 
 * 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
