@@ -30,7 +30,7 @@ Topics: Creating reusable methods, method overloading, returning values, and pas
 
 * 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)<br>
 
 * 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections<br>
