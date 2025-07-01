@@ -18,7 +18,7 @@ Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type
 
 * 📅 11/06/25 (Wed) – Day 3 – Java Control Flow<br>
 Topics: Conditional statements (if, if-else, switch) and loops (for, while, do-while), along with nested control structures<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaControlFlow)<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/Core-Java/Java%20Control%20Flows)<br>
 
 * 📅 12/06/25 (Thu) – Day 4 – Java Arrays<br>
 Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving<br>
