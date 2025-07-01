@@ -22,7 +22,7 @@ Topics: Conditional statements (if, if-else, switch) and loops (for, while, do-w
 
 * 📅 12/06/25 (Thu) – Day 4 – Java Arrays<br>
 Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/Arraypractice)<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/Core-Java/ArrayPractice)<br>
 
 * 📅 13/06/25 (Fri) – Day 5 – Java Methods<br>
 Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases<br>
