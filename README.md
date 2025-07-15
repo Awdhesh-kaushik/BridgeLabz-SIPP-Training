@@ -53,6 +53,14 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
 🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/OOPS/Object%20Modelling)<br>
 
+* 📅 01/07/25 (Tue) – Day 5 – Inheritance
+Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/OOPS/Inheritance)<br>
+
+* 📅 02/07/25 (Wed) – Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
+Topics: Encapsulation, Data Hiding, Getter & Setter Method, Compile-Time (Static) Polymorphism, Runtime (Dynamic) Polymorphism, Polymorphism with Interfaces, Polymorphism with Abstract Classes, Casting and instanceof with Polymorphism, Java Interfaces and Abstract Classes.<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/OOPS/OOP%20Pillars)<br>
+
 ### 🛠 Workshop Branch
 
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
@@ -74,6 +82,28 @@ Problem Statement 1 : ✈ Flight Booking System<br>
 Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
 🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/blob/Workshop/Cinema%20Management.java)<br>
+
+🧩 DSA Branch
+
+📅 03/07/25 (Thu) – Day 1 – Linked List
+Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/DSA/Linked%20List)<br>
+
+📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap
+Topics: Stacks in Java , Key Characteristics of Stack, Internal Working of Stack, Common Applications of Stack, Common Methods in Stack Class, Advantages of Stacks,Queues in Java,Key Characteristics of a Queue,Common Queue Methods,Ticket Counter Management Using Queue,Applications of Queue,HashMap in Java ,Internal Working of HashMap,Key Methods in HashMap,Performance Considerations,Limitations of HashMap,Common Use Cases,Hashing Function in Java,How to Override hashCode(),Steps for Hashing in Java,Applications of Hashing.<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/DSA/StacksAndQueues)<br>
+
+📅 08/07/25 (Tue) – Day 3 – HashMap Implementations
+Topics: Implement a HashMap without collection framework.<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/blob/DSA/StacksAndQueues/CustomHashMapImplementation.java)<br>
+
+📅 09/07/25 (Wed) – Day 4 – Sorting Algorithm
+Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/DSA/Sorting%20Algorithm)<br>
+
+📅 10/07/25 (Thu) – Day 5 – Linear And Binary Search
+Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search
+🔗 [Code](https://github.com/Awdhesh-kaushik/BridgeLabz-SIPP-Training/tree/DSA/LinearAndBinary%20Search)<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
